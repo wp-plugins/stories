@@ -3,7 +3,7 @@
  * Plugin Name: Stories
  * Plugin URI: http://wpsetup.co
  * Description: Builds a story post type
- * Version: 1.0
+ * Version: 1.1
  * Author: Bryan Monzon
  * Author URI: http://labs.fiftyandfifty.org
  */
@@ -65,7 +65,7 @@ final class BM_STORIES {
   private function setup_constants() {
     // Plugin version
     if ( ! defined( 'BM_STORIES_VERSION' ) )
-      define( 'BM_STORIES_VERSION', '0.1' );
+      define( 'BM_STORIES_VERSION', '1.1' );
 
     // Plugin Folder Path
     if ( ! defined( 'BM_STORIES_PLUGIN_DIR' ) )
