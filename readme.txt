@@ -3,10 +3,10 @@ Contributors: bryanmonzon
 Author URI: http://wpsetup.co
 Tags: stories
 Requires at least: 3.0.1
-Tested up to: 4.0
-Version: 1.0
+Tested up to: 4.1.1
+Version: 1.1
 Requires at least: 3.7
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,9 @@ Yes! Just go to the settings page and change the slug or labels. Make sure to re
 There are no screenshots for this plugin
 
 == Changelog ==
+
+= 1.1, March 5, 2015 =
+* Add additional supports to the stories post type. (comments, author and revisions) 
 
 = 1.0, October 31, 2014 =
 * Initial release

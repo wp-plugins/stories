@@ -73,7 +73,7 @@ function setup_bm_stories_post_types() {
 		'has_archive'         => $archives,
 		'show_in_nav_menus'   => true,
 		'hierarchical'        => false,
-		'supports'            => apply_filters( 'bm_stories_supports', array( 'title', 'editor', 'thumbnail', 'excerpt' ) ),
+		'supports'            => apply_filters( 'bm_stories_supports', array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'revisions', 'author' ) ),
 	);
 	register_post_type( 'stories', apply_filters( 'bm_stories_post_type_args', $boiler_args ) );
 	
