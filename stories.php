@@ -1,11 +1,11 @@
 <?php 
 /**
  * Plugin Name: Stories
- * Plugin URI: http://wpsetup.co
+ * Plugin URI: http://wordpress.org/plugins/stories
  * Description: Builds a story post type
  * Version: 1.1
  * Author: Bryan Monzon
- * Author URI: http://labs.fiftyandfifty.org
+ * Author URI: https://profiles.wordpress.org/bryanmonzon/
  */
 
 
